@@ -1,6 +1,6 @@
 ## Olá, eu sou Welinton!
 
-- 🔭 Hoje estou trabalhando com Power BI
+- 🔭 Hoje estou trabalhando com Power BI / Qlik
 - 🌱 Estudando: Data Analytics / Python
 - 📫 Contato: welinton@msn.com
 - 😄 Pronouns: ele/dele
