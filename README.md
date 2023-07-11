@@ -1,8 +1,8 @@
 ## Olá, eu sou Welinton!
 
-- 🔭 Hoje estou trabalhando com Power BI / Qlik
+- 🔭 Hoje estou trabalhando com Power BI / Qlik / SSIS / Report Server
 - 🌱 Estudando: Data Analytics / Python
-- 📫 Contato: welinton@msn.com
+- 📫 Contato: welintonreis@mikazuki.com.br
 - 😄 Pronouns: ele/dele
 
 <div align="center">
