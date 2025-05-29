@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando com Power BI / Qlik / SSIS / Report Server
 - 🌱 Estudando: Data Analytics / Python
-- 📫 Contato: welintonreis@mikazuki.com.br
+- 📫 Contato: welintonreis@redhusky.com.br
 - 😄 Pronouns: ele/dele
 
 <div align="center">
